@@ -1,0 +1,6 @@
+namespace Namespace
+{
+	interface Interface
+	{
+	}
+}
